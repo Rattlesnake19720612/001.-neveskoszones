@@ -18,3 +18,13 @@ namespace _001.neveskoszones
         }
     }
 }
+
+/*Ez a kód egy egyszerű üdvözlő program. Soronként a következők történnek:
+A System névtér importálása.
+Egy namespace definiálása _001.neveskoszones névvel.
+Egy class definiálása Program névvel.
+Az Main függvény definiálása, amely a program belépési pontja.
+A "Kérem a neved és köszönök neked!" üzenet kiírása a konzolra.
+A felhasználó nevének bekérése a konzolról és a kapott érték eltárolása a nev változóban.
+Az üdvözlő üzenet kiírása a konzolra, amely tartalmazza a felhasználó nevét.
+Az utolsó sorban egy ReadLine() függvény hívása található, amely megakadályozza a program futásának azonnali befejezését, amíg a felhasználó nem nyom egy billentyűt a konzolon.*/
